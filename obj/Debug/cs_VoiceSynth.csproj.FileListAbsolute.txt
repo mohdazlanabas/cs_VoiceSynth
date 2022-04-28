@@ -1,0 +1,8 @@
+D:\CSharp\cs_VoiceSynth\bin\Debug\cs_VoiceSynth.exe.config
+D:\CSharp\cs_VoiceSynth\bin\Debug\cs_VoiceSynth.exe
+D:\CSharp\cs_VoiceSynth\bin\Debug\cs_VoiceSynth.pdb
+D:\CSharp\cs_VoiceSynth\obj\Debug\cs_VoiceSynth.csproj.AssemblyReference.cache
+D:\CSharp\cs_VoiceSynth\obj\Debug\cs_VoiceSynth.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\cs_VoiceSynth\obj\Debug\cs_VoiceSynth.csproj.CoreCompileInputs.cache
+D:\CSharp\cs_VoiceSynth\obj\Debug\cs_VoiceSynth.exe
+D:\CSharp\cs_VoiceSynth\obj\Debug\cs_VoiceSynth.pdb
